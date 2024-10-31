@@ -19,5 +19,5 @@ comments: false
 
 ## 参考
 
-- https://lyz.com/conversation-about-god/
-- https://nova001.blogspot.com/2016/11/14732191018149715011503.html
+- [与无神论少年讨论基督教](https://lyz.com/conversation-about-god/)
+- [科学家与基督教信仰](https://nova001.blogspot.com/2016/11/14732191018149715011503.html)
